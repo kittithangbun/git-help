@@ -1,8 +1,9 @@
 - r-base
 - shutter
 - rstudio
-  - `dpkg -i rstudio`
+  - `dpkg -i rstudio`  
 git
 giggle
 gitk
 xclip
+vim

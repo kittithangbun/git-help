@@ -15,3 +15,5 @@ ssh-add ~/.ssh/id_rsa
 ## copy rsa key to github account
 cat ~/.ssh/id_rsa | xclip -i
 
+## Test
+ssh -t git@github.com
